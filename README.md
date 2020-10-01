@@ -4,3 +4,4 @@ We're digital nomads, living a digital life! And one thing that we have learned 
 Greasy spoon allows you to order food online, keeping your safety and convenience in mind. Through this medium we can also receive your feedbacks for the dishes and particular cafe in our campus.
 This site is created by second year students Akash, Dipin, Siddhesh and Harsh, as part of IITISoC 2020.
 You can give feedback by contacting us, or better yet, contribute to the repository!
+// good bye.
